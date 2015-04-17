@@ -1,2 +1,11 @@
+#@+leo-ver=5-thin
+#@+node:SmedbergM.20150417134729.1: * @file .gitignore
 # Local Information Files
 .local.*
+
+# MS Office files
+*.doc
+*.docx
+*.ppt
+*.pptx
+#@-leo
